@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="com.sparkjava:spark-core:2.8.0" type="repository">
+  <library name="com.google.code.gson" type="repository">
     <properties maven-id="com.sparkjava:spark-core:2.8.0" />
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/spark-core-2.8.0.jar!/" />
